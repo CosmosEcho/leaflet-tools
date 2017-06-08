@@ -1,7 +1,7 @@
 # leaflet-tools
 
 ### 扩展了一般地图操作，如量算、底图切换、自定义扩展工具。
-leaflet-tools is a custom leaflet extensions.You can measure、change basemaps、control your layerlist etc.
+Leaflet-tools is a custom leaflet extensions.You can measure,change basemaps,control your layerlist etc.
 ### 使用方法如下 Usage
         L.mapTools({
                 controls: [
